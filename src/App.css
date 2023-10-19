@@ -1,0 +1,20 @@
+.btn-color {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.box {
+    width: 288px;
+    height: 202px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
